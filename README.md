@@ -45,4 +45,6 @@ A collection of beginner-friendly Python games to strengthen logic, problem-solv
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Murtaza-Ali&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Syed-Murtaza-Ali&theme=radical&hide_border=true)  
 
+![Snake animation](https://github.com/Syed-Murtaza-Ali/Syed-Murtaza-Ali/blob/output/github-contribution-grid-snake.svg)
+
 *This profile highlights my journey in Data Analytics through academic work, internships, and personal projects, as I continue to grow into a professional analyst.*  
