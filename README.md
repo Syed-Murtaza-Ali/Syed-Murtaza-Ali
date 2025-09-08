@@ -1,5 +1,5 @@
 # Hi, I’m Syed Murtaza Ali  
-###🎓 Business Data Analytics Student | 📊 Data Enthusiast | 🚀 Aspiring Analyst  
+🎓 Business Data Analytics Student | 📊 Data Enthusiast | 🚀 Aspiring Analyst  
 
 ## Connect with Me  
 - 📧 Email: **syedmurtazaali1210@gmail.com**  
