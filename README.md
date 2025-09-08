@@ -3,7 +3,7 @@
 
 ## Connect with Me  
 - 📧 Email: **syedmurtazaali1210@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/syed-murtaza-ali](https://www.linkedin.com/in/syed-murtaza-ali) 
+- 💼 LinkedIn: [linkedin.com/in/syed-murtaza-ali](www.linkedin.com/in/syed-murtaza-ali-432031230) 
 - 📂 Portfolio: [github.com/Syed-Murtaza-Ali](https://github.com/Syed-Murtaza-Ali)  
 
 ## Skills  
