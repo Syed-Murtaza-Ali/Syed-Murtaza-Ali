@@ -4,7 +4,6 @@
 ## Connect with Me  
 - 📧 Email: **syedmurtazaali1210@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/syed-murtaza-ali](www.linkedin.com/in/syed-murtaza-ali-432031230) 
-- 📂 Portfolio: [github.com/Syed-Murtaza-Ali](https://github.com/Syed-Murtaza-Ali)  
 
 ## Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
