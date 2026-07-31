@@ -1,6 +1,12 @@
 # Hi, I’m Syed Murtaza Ali  
 🎓 Business Data Analytics Student | 📊 Data Enthusiast | 🚀 Aspiring Analyst  
 
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://syed-murtaza-ali-portfolio.vercel.app
+
+Explore my featured projects, experience, certifications, and technical skills in a modern interactive portfolio.
+
 ## Connect with Me  
 - 📧 Email: **syedmurtazaali1210@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/syedmurtazaali1210
